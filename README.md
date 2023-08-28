@@ -19,9 +19,9 @@ Antes de executar o serviço, você precisará das seguintes ferramentas e confi
 Siga os passos abaixo para configurar o serviço:
 
 1 - Clone o repositório: </br>
-2 - Adicione o seu BUCKET (PRECISA SER PUBLICO, SERVIÇO NÃO UTILIZA AUTENTICAÇÃO) no StorageCloud.class Linha 17.
-3 - Adicione o seu URL do WEBHOOK do Discord em Main.class Linha 34
-4 - Compile e execute o serviço:
+2 - Adicione o seu BUCKET (PRECISA SER PUBLICO, SERVIÇO NÃO UTILIZA AUTENTICAÇÃO) no StorageCloud.class Linha 17.</br>
+3 - Adicione o seu URL do WEBHOOK do Discord em Main.class Linha 34</br>
+4 - Compile e execute o serviço:</br>
 
 ```shell
 $ javac Main.java
